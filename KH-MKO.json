@@ -1,14 +1,26 @@
 {
-   "files": [ 
+
+   "files": [    
+
 {
-         "name": "KH-MKO",
-         "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/KH-MKO.ovpn"
- },
 
-   }
+         "name": "KH-Mobile Legends-MKO",
 
-],
+         "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/SG-ML-MKO-001.ovpn"
+
+      },
+
+{
+
+         "name": "SG-Garena Free Fire-MKO",
+
+         "url": "https://raw.githubusercontent.com/MrRKeo/VPNAPSARA/main/SG-FF-MKO-001.ovpn"
+
+}
+
+   ],
+
 "message":"🚀 Config version - 1 \n📆 អាប់ដេតចុងក្រោយ - 08/08/2023 / \n• Thailand🇹🇭 VIP1Server \n• Singapore🇸🇬 1Server \n• គំទ្រសុីមស្មាតគម្រោងនិងសេវាកម្មដូចជា\n• M͟o͟b͟i͟l͟e͟L͟e͟g͟e͟n͟d͟s͟ \n• G͟a͟r͟e͟n͟a͟ F͟r͟e͟e͟F͟i͟r͟e͟ \n• សេវាកម្ម P͟U͟B͟G͟ M͟o͟b͟i͟l͟e͟ \n• S͟o͟c͟i͟a͟l͟P͟a͟c͟k͟ ",
-   "title":"Do you want to update?",
-   "version": 18
+"title":"🙏សូមបងប្អូនធ្វើបច្ចុប្បន្នភាពឯកសារជារថ្មី🙏" ,
+   "version":55
 }
