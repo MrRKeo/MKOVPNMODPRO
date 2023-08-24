@@ -4,7 +4,7 @@
 
 {
 
-         "name": "KH-M͟o͟b͟i͟l͟e͟L͟e͟g͟e͟n͟d͟s͟-MKO",
+         "name": "KH-Mobile Legends-MKO",
 
          "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/KH-ML.ovpn"
 
@@ -12,7 +12,7 @@
 
 {
 
-         "name": "KH-G͟a͟r͟e͟n͟a͟ F͟r͟e͟e͟F͟i͟r͟e͟-MKO",
+         "name": "KH-Garena Free Fire-MKO",
 
          "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/KH-FF.ovpn"
   
@@ -20,7 +20,7 @@
 
 {
 
-         "name": "KH-P͟U͟B͟G͟ M͟o͟b͟i͟l͟e͟-MKO",
+         "name": "KH-PUBG Mobile-MKO",
 
          "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/KH-PG.ovpn"
   
@@ -28,7 +28,7 @@
 
 {
 
-         "name": "KH-S͟o͟c͟i͟a͟l͟P͟a͟c͟k͟-MKO",
+         "name": "KH-SocialPack-MKO",
 
          "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/KH-SP.ovpn"
 
@@ -36,7 +36,7 @@
 
 {
 
-         "name": "KH2-G͟a͟r͟e͟n͟a͟ F͟r͟e͟e͟F͟i͟r͟e͟-MKO",
+         "name": "KH2-Garena Free Fire-MKO",
 
          "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/KH2-FF.ovpn"
          
@@ -44,7 +44,7 @@
 
 {
 
-         "name": "KH2-M͟o͟b͟i͟l͟e͟L͟e͟g͟e͟n͟d͟s͟-MKO",
+         "name": "KH2-Mobile Legends-MKO",
 
          "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/KH2-ML.ovpn"
          
@@ -52,7 +52,7 @@
 
 {
 
-         "name": "KH2-P͟U͟B͟G͟ M͟o͟b͟i͟l͟e͟-MKO",
+         "name": "KH2-PUBG Mobile-MKO",
 
          "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/KH2-PG.ovpn"
          
@@ -60,7 +60,7 @@
 
 {
 
-         "name": "KH2-S͟o͟c͟i͟a͟l͟P͟a͟c͟k͟-MKO",
+         "name": "KH2-SocialPack-MKO",
 
          "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/KH2-SP.ovpn"
                   
@@ -68,7 +68,7 @@
 
 {
 
-         "name": "SG1-G͟a͟r͟e͟n͟a͟ F͟r͟e͟e͟F͟i͟r͟e͟-MKO",
+         "name": "SG1-Garena Free Fire-MKO",
 
          "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/SG-FF.ovpn"
                            
@@ -76,7 +76,7 @@
 
 {
 
-         "name": "SG1-M͟o͟b͟i͟l͟e͟L͟e͟g͟e͟n͟d͟s͟-MKO",
+         "name": "SG1-Mobile Legends-MKO",
 
          "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/SG-ML.ovpn"
                            
@@ -84,7 +84,7 @@
 
 {
 
-         "name": "SG1-P͟U͟B͟G͟ M͟o͟b͟i͟l͟e͟-MKO",
+         "name": "SG1-PUBG Mobile-MKO",
 
          "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/SG-PG.ovpn"
                            
@@ -92,16 +92,48 @@
 
 {
 
-         "name": "SG1-S͟o͟c͟i͟a͟l͟P͟a͟c͟k͟-MKO",
+         "name": "SG1-SocialPack-MKO",
 
          "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/SG-SP.ovpn"
+                                    
+    },
+
+{
+
+         "name": "SG2-Mobile Legends-MKO",
+
+         "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/SG2-ML.ovpn"
+                                             
+    },
+
+{
+
+         "name": "SG2-Garena Free Fire-MKO",
+
+         "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/SG2-FF.ovpn"
+                                             
+    },
+
+{
+
+         "name": "SG2-PUBG Mobile-MKO",
+
+         "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/SG2-PG.ovpn"
+                                             
+    },
+
+{
+
+         "name": "SG2-SocialPack-MKO",
+
+         "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/SG2-SP.ovpn"
                            
 
 }
 
    ],
 
-"message":"🚀 Config version - ១០ \n📆 អាប់ដេតចុងក្រោយ - ទី២៤/ខែ០៨/ឆ្នាំ២០២៣ / \n• Thailand🇹🇭 VIP1Server \n• Singapore🇸🇬 1Server \n• គំទ្រសុីមស្មាតគម្រោងនិងសេវាកម្មដូចជា\n• M͟o͟b͟i͟l͟e͟L͟e͟g͟e͟n͟d͟s͟ \n• G͟a͟r͟e͟n͟a͟ F͟r͟e͟e͟F͟i͟r͟e͟ \n• សេវាកម្ម P͟U͟B͟G͟ M͟o͟b͟i͟l͟e͟ \n• S͟o͟c͟i͟a͟l͟P͟a͟c͟k͟ ",
+"message":"📆 អាប់ដេតចុងក្រោយ📆\n• ទី២៤/ខែ០៨/ឆ្នាំ២០២៣ / \n• Thailand🇹🇭 VIP1Server \n• Singapore🇸🇬 1Server \n• គំទ្រសុីមស្មាតគម្រោងនិងសេវាកម្មដូចជា\n• សេវាកម្ម M͟o͟b͟i͟l͟e͟L͟e͟g͟e͟n͟d͟s͟ \n• សេវាកម្ម G͟a͟r͟e͟n͟a͟ F͟r͟e͟e͟F͟i͟r͟e͟ \n• សេវាកម្ម P͟U͟B͟G͟ M͟o͟b͟i͟l͟e͟ \n• សេវាកម្ម S͟o͟c͟i͟a͟l͟P͟a͟c͟k͟ ",
 "title":"🙏សូមបងប្អូនធ្វើបច្ចុប្បន្នភាពឯកសារជារថ្មី🙏" ,
-   "version":62
+   "version":63
 }
