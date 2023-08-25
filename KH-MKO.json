@@ -127,13 +127,77 @@
          "name": "SG2-SocialPack-MKO",
 
          "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/SG2-SP.ovpn"
+                                                      
+    },
+
+{
+
+         "name": "TH1-Garena Free Fire-MKO",
+
+         "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/TH-FF.ovpn"
+                                                               
+    },
+
+{
+
+         "name": "TH1-Mobile Legends-MKO",
+
+         "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/TH-ML.ovpn"
+                                                               
+    },
+
+{
+
+         "name": "TH1-PUBG Mobile-MKO",
+
+         "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/TH-PG.ovpn"
+                                                               
+    },
+
+{
+
+         "name": "TH1-SocialPack-MKO",
+
+         "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/TH-SP.ovpn"
+                                                                        
+    },
+
+{
+
+         "name": "TH2-Garena Free Fire-MKO-VIP",
+
+         "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/TH-VIP-FF.ovpn"
+                                                                                 
+    },
+
+{
+
+         "name": "TH2-Mobile Legends-MKO-VIP",
+
+         "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/TH-VIP-ML.ovpn"
+                                                                                 
+    },
+
+{
+
+         "name": "TH2-PUBG Mobile-MKO-VIP",
+
+         "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/TH-VIP-PG.ovpn"
+                                                                                 
+    },
+
+{
+
+         "name": "TH2-SocialPack-MKO-VIP",
+
+         "url": "https://raw.githubusercontent.com/MrRKeo/MKOVPNMODPRO/main/TH-VIP-SP.ovpn"
                            
 
 }
 
    ],
 
-"message":"📆 អាប់ដេតចុងក្រោយ📆\n• ទី២៤/ខែ០៨/ឆ្នាំ២០២៣ / \n• Thailand🇹🇭 VIP1Server \n• Singapore🇸🇬 1Server \n• គំទ្រសុីមស្មាតគម្រោងនិងសេវាកម្មដូចជា\n• សេវាកម្ម M͟o͟b͟i͟l͟e͟L͟e͟g͟e͟n͟d͟s͟ \n• សេវាកម្ម G͟a͟r͟e͟n͟a͟ F͟r͟e͟e͟F͟i͟r͟e͟ \n• សេវាកម្ម P͟U͟B͟G͟ M͟o͟b͟i͟l͟e͟ \n• សេវាកម្ម S͟o͟c͟i͟a͟l͟P͟a͟c͟k͟ ",
+"message":"📆 អាប់ដេតចុងក្រោយ📆\n• ទី២៤/ខែ០៨/ឆ្នាំ២០២៣ / \n• khmer🇰🇭 2Server \n• Thailand🇹🇭 2Server VIP1 \n• Singapore🇸🇬 2Server \n• គំទ្រសុីមស្មាតគម្រោងនិងសេវាកម្មដូចជា\n• សេវាកម្ម M͟o͟b͟i͟l͟e͟L͟e͟g͟e͟n͟d͟s͟ \n• សេវាកម្ម G͟a͟r͟e͟n͟a͟ F͟r͟e͟e͟F͟i͟r͟e͟ \n• សេវាកម្ម P͟U͟B͟G͟ M͟o͟b͟i͟l͟e͟ \n• សេវាកម្ម S͟o͟c͟i͟a͟l͟P͟a͟c͟k͟ \n• CREATED ᏴᎽ: 𝙈𝙆𝙊 𝙑𝙋𝙉 ",
 "title":"🙏សូមបងប្អូនធ្វើបច្ចុប្បន្នភាពឯកសារជារថ្មី🙏" ,
-   "version":63
-}
+   "version":64
+      }
